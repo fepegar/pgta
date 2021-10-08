@@ -6,5 +6,3 @@
 - Redirect questions to class
 - Let students ask anonymously Use Menti?
 - Give timeline of lecture
-
-- Ask Yipeng to send preparation instructions
