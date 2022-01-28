@@ -16,11 +16,11 @@ python stars.py
 
 
 def print_star():
-    print('*')
+    print('*', end='')
 
 def print_stars(max_stars):
     for row_index in range(max_stars):
-        num_stars = row_index
+        num_stars = row_index + 1
         for star_index in range(num_stars):
             print_star()
         print()
